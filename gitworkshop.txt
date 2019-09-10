@@ -1,0 +1,5 @@
+git config --global diff.tool vimdiff
+
+***git diff
+Bread and butter of why git/hub is awesome
+Shows what changed 
